@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "name": "john doe",
+    "email": "sample@grc.com",
+    "phone": "+1-202020202002",
+    "address": {
+        "street": "123 main st",
+        "city": "AnyTown",
+        "state": "CA",
+        "zip": "1234"
+    },
+    "company":{
+        "name": "tech solution",
+        "positions": "software engineer",
+        "department": "development"
+    }
+}
