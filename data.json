@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "name": "king caliuag",
+    "email": "caliuagking@gmail.com",
+    "phone": "N/A",
+    "address": {
+        "street": "159 Sanciangco",
+        "city": "Malabon",
+        "state": "PH",
+        "zip": "1470"
+    },
+    "company":{
+        "name": "tech solution",
+        "positions": "software engineer",
+        "department": "development"
+    }
+}
